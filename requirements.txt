@@ -1,0 +1,8 @@
+These are the required libraries that are needed to use this notebook.
+
+
+- NumPy
+- SciPy
+- Matplotlib
+- ipywidgets 
+- JupyterLab
